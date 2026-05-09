@@ -17,7 +17,7 @@ Sistem informasi desa berbasis web untuk memudahkan pengelolaan data desa secara
 - HTML & CSS
 
 ## 📸 Screenshots
-![Dashboard](Screenshot/Dasbor.jpg)
+![Dashboard](Screenshot/Dashboard.jpg)
 ![Data Warga](Screenshot/Data%20Warga.jpg)
 ![Data Kegiatan](Screenshot/Data%20Kegiatan.jpg)
 ![Data Keuangan](Screenshot/Data%20Keuangan.jpg)
